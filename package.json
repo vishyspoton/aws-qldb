@@ -1,0 +1,17 @@
+{
+  "name": "testdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-qldb": "^3.13.0",
+    "dotenv": "^8.2.0",
+    "qldb-serialiser": "^2.0.6"
+  }
+}
